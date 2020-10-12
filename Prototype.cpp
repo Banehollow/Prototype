@@ -175,6 +175,7 @@ int main() {
 	if (Entry == false)
 	{
 		printf("No fancy code numbers!\n");
+		system("Pause");
 		main();
 	}
 	printf("Good, now what weapon do you choose?\n");
