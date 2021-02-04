@@ -1,1 +1,1 @@
-alert('wtf');
+<script> alert('wtf'); </script>
